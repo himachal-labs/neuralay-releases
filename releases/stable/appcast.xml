@@ -3,6 +3,18 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sat, 26 Jul 2025 17:00:00 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.2.dmg" length="2764538924" type="application/octet-stream" sparkle:edSignature="aDFN5BWk7bQOEgGs9aCR7wxT2ZH8FLlGQqiDcKnbbGimCOqdNa6RbEvGmWKNfRVwNGcMG9HpLKjRshhXmr4hDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.neuralay.com/neuralay3-2.delta" sparkle:deltaFrom="2" length="2298274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0b+/8FYUt0wejumXMzv7WFF8Vesn+UKiztzGInPfSwp6T0nOwdCn/C1p1xehcOaMLuE3RZCMkAN6Q+GCaIEiDw=="/>
+                <enclosure url="https://releases.neuralay.com/neuralay3-1.delta" sparkle:deltaFrom="1" length="3156694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FdHoyYWa5xoo2ZCh6toocEEDO/TKkvlSbN+SbbJzleGBGF6oeTjK4oQ9rxdlwZdcyNpSu7lyCiLOAsez9uMiDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 18 Jul 2025 17:57:50 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
