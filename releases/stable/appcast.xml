@@ -3,6 +3,14 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.16</title>
+            <pubDate>Wed, 27 Aug 2025 18:45:46 +0900</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.16.dmg" length="642682989" type="application/octet-stream" sparkle:edSignature="bPUhCeFnCNlCNwYn5q0t9kq+rB4ZXYkAEURvFGbXrbtcwu6uPTsV60QyB2uCROqxcgN6w91CuQX7MAOo2Ak3Bw=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Tue, 26 Aug 2025 16:38:56 +0900</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -17,18 +25,6 @@
             <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://releases.neuralay.com/Neuralay-0.1.14.dmg" length="642675588" type="application/octet-stream" sparkle:edSignature="KQGSLkS6Zh4o36a0LJzDaQNwTP707ubdWr5eRG3MU1p4PL6hTUZe7U9xRoLuvFOKZaA+y50PSogjMg36X2PkAg=="/>
-        </item>
-        <item>
-            <title>0.1.13</title>
-            <pubDate>Sun, 17 Aug 2025 19:40:52 +0900</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.13.dmg" length="642674908" type="application/octet-stream" sparkle:edSignature="po6ffyChikc/V2NGOVrV6RI6OavZnRWHJQZvuJO5NY1N9yss1L8Qk2v8ddLhpdUhnLLz3K6d4LPTssrzcIGcAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://releases.neuralay.com/neuralay14-13.delta" sparkle:deltaFrom="13" length="2211722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZBnBpLlA6PCYQIng5QZfiMgj2wHLSsrrQ+uvbSgtIZv4sUXPPSCVmLdS5pWX4D1JE9qFkLOwcgTnucQFEr4gCA=="/>
-                <enclosure url="https://releases.neuralay.com/neuralay14-11.delta" sparkle:deltaFrom="11" length="2979170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2A7UaHWO1h9er1chenqJATzWGdPLnBsdi+fVPKN/jt1lNR94D7KCgpZIXmw+pMdjzFJeeuOqNqX0dX7u3a/fBQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
