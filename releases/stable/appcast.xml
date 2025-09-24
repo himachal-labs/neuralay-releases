@@ -3,6 +3,14 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.24</title>
+            <pubDate>Wed, 24 Sep 2025 11:55:04 +0900</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.24.dmg" length="642104141" type="application/octet-stream" sparkle:edSignature="8kU+GICHYk1Twtv0WU+n2H7Jyqw0SSY375hPrdL7DwGV87KSKXEwFQOjU2u2zkrpdbKmZx2hb2Nq3FFAdVSbAA=="/>
+        </item>
+        <item>
             <title>0.1.23</title>
             <pubDate>Mon, 22 Sep 2025 20:47:42 +0900</pubDate>
             <sparkle:version>24</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://releases.neuralay.com/Neuralay-0.1.22.dmg" length="642114753" type="application/octet-stream" sparkle:edSignature="/JZStLsGCmVwCziA/H9JHAFjkq4NrTyMzdv+uuYxyRtybJPdWblwEFSkuelnr7m1lYiGGiG8YuqgNGVSs08mBg=="/>
-        </item>
-        <item>
-            <title>0.1.21</title>
-            <pubDate>Sat, 20 Sep 2025 15:27:14 +0900</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.21.dmg" length="642130504" type="application/octet-stream" sparkle:edSignature="E0J0jKXq1YLp2rS4xkjUk/wFths1Dvcf0mAOTNycxU/x+AauAAQQcwT6q1QMmJ0jgCh3vueRGh7byVpzVvRYBw=="/>
         </item>
     </channel>
 </rss>
