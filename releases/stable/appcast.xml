@@ -3,6 +3,17 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.25</title>
+            <pubDate>Thu, 25 Sep 2025 22:53:54 +0900</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.25.dmg" length="18359224" type="application/octet-stream" sparkle:edSignature="9bd/wstAS2yXY7yiUTb95wW9TJEEx0nUeH3YxZP9wGap0ZmMFqguatnctQDi6D3Gp10qmGZM+E3ZG2On3YezDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.neuralay.com/neuralay26-25.delta" sparkle:deltaFrom="25" length="2093626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862496" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LmVdB8Sd0zFf2B0lfBV7OeEOX/PtKT7FbWrEcvAAf7pnLN5hzcqIvvQfdkvBWXZgkPjSt0Hgz+axJpNjmhGEAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.24</title>
             <pubDate>Wed, 24 Sep 2025 11:55:04 +0900</pubDate>
             <sparkle:version>25</sparkle:version>
@@ -17,14 +28,6 @@
             <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://releases.neuralay.com/Neuralay-0.1.23.dmg" length="642089905" type="application/octet-stream" sparkle:edSignature="hn21IPVN9H+jO8SyVv3TGv8GQ8iOFv+ZmGYybJsmxEt3kCzapeOqNuvL3NyJEWmOvUTvDKNv719uTj5qf1AnBA=="/>
-        </item>
-        <item>
-            <title>0.1.22</title>
-            <pubDate>Sat, 20 Sep 2025 18:57:04 +0900</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.22.dmg" length="642114753" type="application/octet-stream" sparkle:edSignature="/JZStLsGCmVwCziA/H9JHAFjkq4NrTyMzdv+uuYxyRtybJPdWblwEFSkuelnr7m1lYiGGiG8YuqgNGVSs08mBg=="/>
         </item>
     </channel>
 </rss>
