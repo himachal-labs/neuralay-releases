@@ -3,6 +3,17 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.27</title>
+            <pubDate>Thu, 25 Sep 2025 23:19:56 +0900</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.27.dmg" length="18370284" type="application/octet-stream" sparkle:edSignature="yZjf/FFuIQjXVlTVh8mA9+ikjpHUaOJGgeWeuvJDns+E5GElxdNEIslCGi3CoffeNMKBgjaNZ+HF9YbJ52yvCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.neuralay.com/neuralay28-27.delta" sparkle:deltaFrom="27" length="1628222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862496" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="p0cCDzKBNB5oya2qP8tGTY8XHOsxqGs6bLunPjF8szyv/KRdv8dLV0Jc1BiBa7IIpHqEdRR6uzHcMq8mKtiaBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.26</title>
             <pubDate>Thu, 25 Sep 2025 23:06:51 +0900</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -20,14 +31,6 @@
             <sparkle:deltas>
                 <enclosure url="https://releases.neuralay.com/neuralay26-25.delta" sparkle:deltaFrom="25" length="2093626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862496" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LmVdB8Sd0zFf2B0lfBV7OeEOX/PtKT7FbWrEcvAAf7pnLN5hzcqIvvQfdkvBWXZgkPjSt0Hgz+axJpNjmhGEAw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.24</title>
-            <pubDate>Wed, 24 Sep 2025 11:55:04 +0900</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.24.dmg" length="642104141" type="application/octet-stream" sparkle:edSignature="8kU+GICHYk1Twtv0WU+n2H7Jyqw0SSY375hPrdL7DwGV87KSKXEwFQOjU2u2zkrpdbKmZx2hb2Nq3FFAdVSbAA=="/>
         </item>
     </channel>
 </rss>
