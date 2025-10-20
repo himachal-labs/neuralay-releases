@@ -3,6 +3,20 @@
     <channel>
         <title>neuralay</title>
         <item>
+            <title>0.1.42</title>
+            <pubDate>Mon, 20 Oct 2025 20:10:39 +0900</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.42.dmg" length="19031082" type="application/octet-stream" sparkle:edSignature="yO/OO2Ks7/u0xIhkxiTNUX2bZBetfYePQFaA81AFhzyBw3p0wsPEnnv7Jetp5pbEQIY5oKnNK3skNh9PRpFfAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.neuralay.com/neuralay42-41.delta" sparkle:deltaFrom="41" length="2010122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XW1MhENea2fUGU5OJUX+dghZnJPj+x8ssnuAGLy+8onO3Pqp6t2tDev24o7i8wchkYHtxk/9gZB6fOwLmLcCDQ=="/>
+                <enclosure url="https://releases.neuralay.com/neuralay42-40.delta" sparkle:deltaFrom="40" length="2030730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oUuXmcJL4dUxRDRrIeDIgspR71zBifRndV1uHCd3c+8pIXl3QJsMHmD/nv/ktlKHApbKImaqn5JRtIjGPgazCA=="/>
+                <enclosure url="https://releases.neuralay.com/neuralay42-39.delta" sparkle:deltaFrom="39" length="2028958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pMDReAQ/6CGJT5nSto4hffvtnnXgj5HlzRqPUo3Nrmt11P260GO7ySrnrFqJyz/zw3KSsy3Se8YQLVgxw/z7AQ=="/>
+                <enclosure url="https://releases.neuralay.com/neuralay42-38.delta" sparkle:deltaFrom="38" length="2398974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4JJ1EJGceEA/a61rrezlVkveafKOwlR6+eUcqlzCFFbEG60gXl6LPxnL64kXYuBvDt52PUB0rfczL9kjpd1qAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.41</title>
             <pubDate>Mon, 20 Oct 2025 17:42:18 +0900</pubDate>
             <sparkle:version>41</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://releases.neuralay.com/neuralay40-39.delta" sparkle:deltaFrom="39" length="32826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GGDSQjxcAXmyi16mD4xcHyimhmewI7R1UKakJRMt4WvZePiBVfUFiTGC81/28mIXdTctxdNMp7FtOSHIhd/UBQ=="/>
                 <enclosure url="https://releases.neuralay.com/neuralay40-38.delta" sparkle:deltaFrom="38" length="2088726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="60/OREXdGFk2UMO5EupebuwLBl+h+w8z7LrgUKq+wnhHaYR9cu5NoyNl3HFeT0Hro61B2qrIOwa6Js8Z6OlDAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.39</title>
-            <pubDate>Sun, 19 Oct 2025 14:44:22 +0900</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.39.dmg" length="19031087" type="application/octet-stream" sparkle:edSignature="m58z+LrRZXotU481F377n85VKJTJpmZ9PAHizr2czVHgLZNonZrp/Icng4tLBV334xYZPNtW0zF+sP01n69yDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://releases.neuralay.com/neuralay39-38.delta" sparkle:deltaFrom="38" length="2093942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O4+o9YjuPVv9l4do/Pc9D1PzVPiz3/7ti3rAXwNrp7SdvCpTACDC2tuTs96VbIx3koRhba7ns7fzOEU1INrxBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
