@@ -9,7 +9,7 @@
             <sparkle:version>49</sparkle:version>
             <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.49-49-alpha.dmg" length="19629642" type="application/octet-stream" sparkle:edSignature="NoCWzyiHqCEk91U14I+l2XejvRVHGy66VRUJOmXyDtUpJvSv2LghneXbi7iwPhpqHwEJhijJWperwGu7T9NIAQ=="/>
+            <enclosure url="https://releases.neuralay.com/alpha/Neuralay-0.1.49-49-alpha.dmg" length="19626786" type="application/octet-stream" sparkle:edSignature="hpkmeuN0a+oJHIGaFlpEeZzgqltsMxrME3cFl8rxEd6TQnPedKsVyMsHWzhgz8SlPZ7iXN4t3aIwRsrp46FPDA=="/>
         </item>
     </channel>
 </rss>
