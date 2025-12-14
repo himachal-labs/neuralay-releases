@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>neuralay</title>
+        <item>
+            <title>0.1.49</title>
+            <pubDate>Sun, 14 Dec 2025 14:11:54 +0900</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/Neuralay-0.1.49-49-alpha.dmg" length="19629642" type="application/octet-stream" sparkle:edSignature="NoCWzyiHqCEk91U14I+l2XejvRVHGy66VRUJOmXyDtUpJvSv2LghneXbi7iwPhpqHwEJhijJWperwGu7T9NIAQ=="/>
+        </item>
+    </channel>
+</rss>
