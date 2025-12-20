@@ -4,6 +4,22 @@
         <title>neuralay</title>
         <item>
             <title>0.1.49</title>
+            <pubDate>Sat, 20 Dec 2025 18:11:23 +0900</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://releases.neuralay.com/alpha/Neuralay-0.1.49-56-alpha.dmg" length="19677606" type="application/octet-stream" sparkle:edSignature="W/JCPqLVlXYiNBYJMb8p1/Q/+KsayKGRejWx1iXFkue0iPRm9N7OmTeQGv2UTObRosrC53zMCpI2lxcSTMqUDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://releases.neuralay.com/alpha/neuralay56-55.delta" sparkle:deltaFrom="55" length="2069726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SFlT25I0eux6b0CFJYI8DbCQba/7SO1jmx9I+k8M5x13Uphy2GZdsx822FXmAbhe5YJ0XW3gUFrIKUuDSJIMCg=="/>
+                <enclosure url="https://releases.neuralay.com/alpha/neuralay56-54.delta" sparkle:deltaFrom="54" length="2446878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dUlT0ewzR92Q+IdaOvaOd+U5ZMyO63UkXzNMdQLMHx+iLeV4LtaJbuicCAdskfHcWIEsqaLsFd8m60pkaDakDA=="/>
+                <enclosure url="https://releases.neuralay.com/alpha/neuralay56-53.delta" sparkle:deltaFrom="53" length="2493554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qMvMeYyROBrB450Uqr73I+0XM/0tVd4pQioRR6JFISPNk+RIHMuHT3zP89cKlge/3jlLCpdWy1LwYYo9JazABw=="/>
+                <enclosure url="https://releases.neuralay.com/alpha/neuralay56-52.delta" sparkle:deltaFrom="52" length="2494654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VaJHmf1H1tNI4MBVKmdQaUnNUEnbppRYO4cAcq96M2G+D5CemlzoX8iP7Fr/0J3O4C7P1TJri2Vt3kyRJZcRAQ=="/>
+                <enclosure url="https://releases.neuralay.com/alpha/neuralay56-51.delta" sparkle:deltaFrom="51" length="2564090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zT/h5YMUGeH24Qnb95JDPnErkMG7h+VuP+F2LtDruAGt/KradHQsLVMNtCecI9lK0W9tF5gVWKs/SmLdaqFhDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.49</title>
             <pubDate>Thu, 18 Dec 2025 18:48:01 +0900</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>55</sparkle:version>
@@ -32,20 +48,6 @@
                 <enclosure url="https://releases.neuralay.com/alpha/neuralay54-51.delta" sparkle:deltaFrom="51" length="1743958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SKSClQk9GAcdv+70Gy3nrjcik092HiC7VSLUj9OYdrkMHgng7iWSVXNU2Ne/QEfNnSyy9GlYipeD72Xpdt3lDw=="/>
                 <enclosure url="https://releases.neuralay.com/alpha/neuralay54-50.delta" sparkle:deltaFrom="50" length="1869078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a9mSmA2UfeEowJJN5BcmBqo9nME9G/bmji5CpHFrMzWQCK2nUhMoN/UKrufAiZpQqp1bC/oHuL6xvjs5H1PvAQ=="/>
                 <enclosure url="https://releases.neuralay.com/alpha/neuralay54-49.delta" sparkle:deltaFrom="49" length="1929738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VZG/f/N6PuCs5vLILKll4iIDg5qASmGy6LbA5a4u+rSLOjjxR0XN0mFDrfwZy7qhc+UkcWfJI69KG024fFR+Cg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.49</title>
-            <pubDate>Thu, 18 Dec 2025 17:47:20 +0900</pubDate>
-            <sparkle:channel>alpha</sparkle:channel>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://releases.neuralay.com/alpha/Neuralay-0.1.49-53-alpha.dmg" length="19667830" type="application/octet-stream" sparkle:edSignature="B2ni8ysVChvUVI6ffezhgu6gorXacgft5E1mA+qJA2hpcLp5zIr3tF9jaspzMrt74O+IXmsoLIJ5PQmvuzOIBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://releases.neuralay.com/alpha/neuralay53-52.delta" sparkle:deltaFrom="52" length="34158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OUvpMEoWdSCzI4J3dgFZ1ygZyu+doZdo6e2dPJo98DKDiTm5fP+rveEaX6OIoZlvSG/wlpTfcHwl5V1thwh4Dw=="/>
-                <enclosure url="https://releases.neuralay.com/alpha/neuralay53-51.delta" sparkle:deltaFrom="51" length="1847226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9PFMN3fXw5LrTtxKBEA0PIqEu4K9ovYagMsI+1PGkHLhQX0019X9vzhxkOBOCLhHuQ2iqAcco6mlt7tLAuAYDg=="/>
-                <enclosure url="https://releases.neuralay.com/alpha/neuralay53-49.delta" sparkle:deltaFrom="49" length="1970306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="inWexevFGQMdKTEtdZPkza1WZ2bIHK6y8/qOWbs0J6wFsQdr1+4QHCj0wYxQRa/ktqnlz9cEB6gVpm9061jdDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
